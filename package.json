@@ -1,7 +1,7 @@
 {
   "name": "fb_clone",
   "version": "0.1.0",
-  "homepage": "https://github.com/ersurajkumar2023/Facebook_Clone",
+  "homepage": "https://ersurajkumar2023.github.io/Facebook_Clone",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
