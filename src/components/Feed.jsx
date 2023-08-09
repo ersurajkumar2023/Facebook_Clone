@@ -3,7 +3,7 @@ import StoryReels from "./StoryReels";
 import MessageSender from "./MessageSender";
 import Post from "./Post";
 
-const Feed = () => {
+const Feed = () => { 
   return (
     <>
       <div className="feed__scrollbar h-screen overflow-y-scroll overscroll-y-contain pb-10 mt-16">
